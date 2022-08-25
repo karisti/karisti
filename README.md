@@ -9,9 +9,9 @@ I am currently a Software Developer who has learned to love C thanks to <a href=
 <ul>
   <li>🔭 I’m currently working on <b>Backend Development</b>.</li>
   <li>🧐 Student at <b><a href="https://www.42madrid.com/" target="_blank">42Madrid - Telefónica</a></b> since Sep. 2019. Also studying <a href="https://eniit.es/master-en-ciberseguridad/" target="_blank">master in <strong>Cybersecurity</strong></a>.</li>
-  <li>🤔 I’m looking for help with SegFaults... anyone??
   <li>👨‍💻 Most of my projects are available on <a href="https://github.com/karisti">Github</a>.</li>
   <li>💬 Ask me about anything, I am happy to help.</li>
+  <li>🤔 I’m looking for help with SegFaults... anyone??
 </ul>
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=karisti.karisti)
