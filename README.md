@@ -4,7 +4,7 @@
 I am currently a Software Developer who has learned to love C thanks to <a href="https://www.42madrid.com/" target="_blank">42Madrid - Telefónica</a>. Also interested in Cybersecurity. I am working on some side projects. Always making humans work less and giving orders to machines.
 </p>
 
-<img align="right" src=https://github.com/karisti/karisti/blob/main/resources/coding.gif style="object-fit: cover; height: 210px; float: right">
+<img align="left" src=https://github.com/karisti/karisti/blob/main/assets/coding.gif style="width: 90%;">
 
 <ul>
   <li>🔭 I’m currently working on <b>Backend Development</b>.</li>
@@ -17,22 +17,7 @@ I am currently a Software Developer who has learned to love C thanks to <a href=
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=karisti.karisti)
 [![Github](https://img.shields.io/github/followers/karisti?label=Follow&style=social)](https://github.com/karisti)
 
-
-<!--
-**karisti/karisti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+</br>
 
 <h2>🚀 Some Tools I Use</h2>
 <p align="center">
